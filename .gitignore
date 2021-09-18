@@ -31,3 +31,6 @@ git-src
 .cproject
 .ccache
 .vscode*
+node_modules
+!.config
+my-build/lib

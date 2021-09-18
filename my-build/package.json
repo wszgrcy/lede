@@ -1,0 +1,16 @@
+{
+  "name": "my-build",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/shelljs": "^0.8.9",
+    "shelljs": "^0.8.4",
+    "typescript": "^4.4.3"
+  }
+}
